@@ -13,6 +13,8 @@ I take pride in the fact that my personal projects pertain to my interests becau
 
 ## What Languages am I proficient with?
 
+In order of comfortability:
+
 - Java
 - C/C++
 - JavaScript (Node.js)
