@@ -9,7 +9,7 @@ Class of 2021
 
 I play Electric Bass, Guitar, and Keyboards and like to play metal music. I've been in an industrial band called Marquee Facade and have a Soundcloud page for my IDM project, [GEIST_COMM](https://soundcloud.com/geistcomm). As for video games, I like strategy games like Civilization VI and Slay the Spire or platformers like Celeste. Most often, though, I play a lot of Dungeons and Dragons. I've been playing since high school and with the massive amount of new people joining the hobby these past few years, I've become the perma-DM, always relegated to being the one running the show.
 
-I take pride in the fact that my personal projects pertain to my interests because it's the most surefire way to stay invested knowledgable about the subject. I've never been afraid of being an outsider for my interests and if a project is something I'm passionate about, I'll take it over a typical project every time, even if when it's a bigger task.
+I take pride in the fact that my personal projects pertain to my interests because it's the most surefire way to stay invested and knowledgable about the subject. I've never been afraid of being an outsider for my interests and if a project is something I'm passionate about, I'll take it over a typical project every time, even if when it's a bigger task.
 
 ## What Languages am I proficient with?
 
@@ -47,8 +47,7 @@ In order of Proficiency:
 
 ## What experience do I have?
 
-**Android Application Engineer**
-
+**Android Application Engineer**  
 Motorcycle Alert - Riverside, CA  
 _November 2015 to December 2016_
 
@@ -57,7 +56,7 @@ _November 2015 to December 2016_
 
 On this project I worked with the client using an agile methodology to develop as the client gave feedback to the prototypes being presented. I worked on UI/UX, Android development (Java), PHP/MySQL database design and development, and V1.0 release.
 
-**Android Application Developer**
+**Android Application Developer**  
 Sportronix - Riverside, CA  
 _November 2013 to May 2015_
 
