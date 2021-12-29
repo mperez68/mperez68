@@ -3,6 +3,10 @@
 B.S. in Computer Science and Systems  
 Class of 2021
 
+[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
+
 ###### Currently seeking work in Android Applications Development or Front-end Web Development.
 
 ## What do I do when I'm not coding?
