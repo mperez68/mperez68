@@ -3,8 +3,6 @@
 B.S. in Computer Science and Systems  
 Class of 2021
 
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Currently seeking work in Android Applications Development or Front-end Web Development.
@@ -20,10 +18,11 @@ I take pride in the fact that my personal projects pertain to my interests becau
 In order of comfortability:
 
 - Java
-- C/C++
 - JavaScript (Node.js)
+- C/C++
 - MySQL
 - XML
+- Kotlin
 - HTML
 - CSS
 - PHP
