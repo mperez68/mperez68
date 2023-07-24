@@ -34,23 +34,17 @@ In order of Proficiency:
 
 ## What experience do I have?
 
-**Android Application Engineer**
-Zonar Systems - Seattle, WA
-_March 2022 - Present_
+**Android Application Engineer** - Zonar Systems - Seattle, WA - _March 2022 - Present_
 
 In this role, I primarily maintain an Android system application for an enterprise system working with proprietary hardware interfacing and GPS tracking. This role requires a high amount of cross-team collaboration with hardware engineers and consuming apps (both internal and external). Additional projects in this role include maintaining libraries for Android and iOS to be used by internal consuming apps and Angular web applications for customer care staff within the company.
 
-**Android Application Engineer, Freelance**  
-Motorcycle Alert - Riverside, CA  
-_November 2015 to December 2016_
+**Android Application Engineer, Freelance** - Motorcycle Alert - Riverside, CA - _November 2015 to December 2016_
 
-On this project I worked with the client using an agile methodology to develop as the client gave feedback to the prototypes being presented. I worked on UI/UX, Android development (Java), PHP/MySQL database design and development, and V1.0 release.
+On this project I worked with the client using an agile methodology to develop as the client gave feedback to the prototypes being presented. I worked on UI/UX, Android development (Java), PHP/MySQL database design and development, and v1.0 release.
 
-**Android Application Developer, Freelance**  
-Sportronix - Riverside, CA  
-_November 2013 to May 2015_
+**Android Application Developer, Freelance** - Sportronix - Riverside, CA  - _November 2013 to May 2015_
 
-In this role I worked in a team of four developers using an Agile methodology to present our work to the owner and develop as the client gave feedback to the prototypes being presented. I worked primarily on UI/UX and Android development (Java).
+In this role I worked in a team of four developers using an Agile methodology to present our work to the owner and develop as the client gave feedback to the prototypes being presented. I worked primarily on UI/UX and Android development (Java) to complete a v0.1 prototype.
 
 ## What projects am I most proud of?
 
