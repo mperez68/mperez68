@@ -1,11 +1,12 @@
-# Marc A. Perez (He/Him), Software Engineer
+# Marc A. Perez (He/Him)
+### Zonar Systems, Seattle, WA
+Software Engineer II
+###### March 2022 - Current
 ### University of Washington, Tacoma Campus
 B.S. in Computer Science and Systems  
 Class of 2021
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
-
-###### Specialty in Mobile Platforms.
+###### Specialty in Mobile Platform Development on Android and Web Apps.
 
 ## What do I do when I'm not coding?
 
@@ -13,24 +14,9 @@ I play Electric Bass, Guitar, and Keyboards and write/record music as a hobby. I
 
 I take pride in the fact that my personal projects pertain to my interests because it's the most surefire way to stay invested and knowledgable about the subject. I've never been afraid of being an outsider for my interests and if a project is something I'm passionate about, I'll take it over a typical project every time, even if when it's a bigger task.
 
-## What Languages am I proficient with?
+## What languages do I code in?
 
-In order of comfortability:
-
-- Java
-- Kotlin
-- JavaScript (Node.js, Angular)
-- C/C++
-- Swift
-
-## What Technologies and Software have I worked with?
-
-In order of Proficiency:
-
-- Android Studio
-- Microsoft Visual Studio Code
-- Git
-- Pushy
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mperez68)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What experience do I have?
 
@@ -59,12 +45,12 @@ This project was a great way to test out a small scale version of the group proj
 
 ## What am I working on?
 
-### Untitled Tactical RPG
+### Wizard Fight
 
-##### Languages: **C#**
-##### Software/Technologies: **Unity**
+##### Languages: **C#/GDSCript**
+##### Software/Technologies: **Godot**
 
-This project is currently in pen/paper prototyping. The intention is to blend ARPG/TTRPG concepts of fast-paced gaming reliant on positioning and timing with a turn-based tactical playstyle. The short sell is for a "Fast-Paced Turn-Based Strategy CRPG", which may be a mouthful, but I believe strategy games can be more than something you play with one hand on the mouse and the other propping your head up on the desk.
+[**Wizard Fight**](https://github.com/mperez68/WizardFight) started as a Unity project but has since been adapted to Godot Engine. The intention is to blend ARPG/TTRPG concepts of fast-paced gaming reliant on positioning and timing with a turn-based tactical playstyle. The short sell is for a "Fast-Paced Turn-Based Strategy CRPG", which may be a mouthful, but I believe strategy games can be more than something you play with one hand on the mouse and the other propping your head up on the desk.
 
 ## Where can you contact me?
 
