@@ -1,7 +1,6 @@
 # Marc A. Perez (He/Him)
 ### Zonar Systems, Seattle, WA
 Software Engineer II
-###### March 2022 - Current
 ### University of Washington, Tacoma Campus
 B.S. in Computer Science and Systems  
 Class of 2021
@@ -41,14 +40,16 @@ In this role I worked in a team of four developers using an Agile methodology to
 
 This project was a great way to test out a small scale version of the group project I had been working on in the course. It was an opportunity to plan and execute a more informed design for a browser game and was needed practice for working with the software and capabilities involved. I learned that simplicity can make a great gaming experience; Our main project got bogged down with complications that made it difficult to learn whereas Tower Climb had players intently focused on the games basic premise for a surprising amount of time.
 
-## What am I working on?
-
 ### Wizard Fight
 
 ##### Languages: **C#/GDSCript**
 ##### Software/Technologies: **Godot**
 
-[**Wizard Fight**](https://github.com/mperez68/WizardFight) started as a Unity project but has since been adapted to Godot Engine. The intention is to blend ARPG/TTRPG concepts of fast-paced gaming reliant on positioning and timing with a turn-based tactical playstyle. The short sell is for a "Fast-Paced Turn-Based Strategy CRPG", which may be a mouthful, but I believe strategy games can be more than something you play with one hand on the mouse and the other propping your head up on the desk.
+[**Wizard Fight**](https://github.com/mperez68/WizardFight) started as a Unity project but has since been adapted to Godot Engine. The game is a tactical RPG based around cartoon wizards throwing fireballs and lightning bolts. Except some basic spell icons, all assets, including music, were made by me. This project made me realize how much work I need to do on my pixel art but also made me very proud of my music production. The game can be played [here](https://github.com/mperez68/WizardFight/blob/5ade6d3eaece5580d9f5c72d65633402cc8d62d8/Wizard%20Fight.zip).
+
+## What am I working on?
+
+prototyping game ideas in Godot to see what idea strike next :).
 
 ## Where can you contact me?
 
