@@ -42,8 +42,8 @@ This project was a great way to test out a small scale version of the group proj
 
 ### Wizard Fight
 
-##### Languages: **C#/GDSCript**
-##### Software/Technologies: **Godot**
+###### Languages: **C#/GDSCript**
+###### Software/Technologies: **Godot**
 
 [**Wizard Fight**](https://github.com/mperez68/WizardFight) started as a Unity project but has since been adapted to Godot Engine. The game is a tactical RPG based around cartoon wizards throwing fireballs and lightning bolts. Except some basic spell icons, all assets, including music, were made by me. This project made me realize how much work I need to do on my pixel art but also made me very proud of my music production. The game can be played [here](https://github.com/mperez68/WizardFight/blob/5ade6d3eaece5580d9f5c72d65633402cc8d62d8/Wizard%20Fight.zip).
 
@@ -51,8 +51,8 @@ This project was a great way to test out a small scale version of the group proj
 
 ### Untitled Space Shooter
 
-##### Languages: **C#/GDSCript**
-##### Software/Technologies: **Godot**
+###### Languages: **C#/GDSCript**
+###### Software/Technologies: **Godot**
 
 [**Untitled Space Shooter**](https://github.com/mperez68/space_shooter) is a prototype of a movement shooter in low-gravity environments with multiple gravitational bodies. The major question right now is "is it fun or just disorienting?". You can track the project [here](https://github.com/users/mperez68/projects/2).
 
