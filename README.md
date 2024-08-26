@@ -49,7 +49,12 @@ This project was a great way to test out a small scale version of the group proj
 
 ## What am I working on?
 
-prototyping game ideas in Godot to see what idea strike next :).
+### Untitled Space Shooter
+
+##### Languages: **C#/GDSCript**
+##### Software/Technologies: **Godot**
+
+[**Untitled Space Shooter**](https://github.com/mperez68/space_shooter) is a prototype of a movement shooter in low-gravity environments with multiple gravitational bodies. The major question right now is "is it fun or just disorienting?". You can track the project [here](https://github.com/users/mperez68/projects/2).
 
 ## Where can you contact me?
 
