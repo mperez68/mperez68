@@ -5,6 +5,8 @@ Software Engineer II
 B.S. in Computer Science and Systems  
 Class of 2021
 
+https://chath.itch.io/
+
 ## What do I do when I'm not coding?
 
 I play Electric Bass, Guitar, and Keyboards and write/record music as a hobby. I've been in an industrial band called Marquee Facade and have a Soundcloud page for my IDM project, [GEIST_COMM](https://soundcloud.com/geistcomm). I'm a recent Warhammer 40k convert and have been learning to paint miniatures.
