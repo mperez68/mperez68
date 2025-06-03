@@ -1,11 +1,12 @@
 # Marc A. Perez (He/Him)
-### Zonar Systems, Seattle, WA
-Open to Work or Collab!
+### Open to Work (or Collab!) in Seattle, WA
 ### University of Washington, Tacoma Campus
 B.S. in Computer Science and Systems  
 Class of 2021
 
-https://chath.itch.io/
+Marc.Perez.Dev@gmail.com
+[Itch.io](https://chath.itch.io/)
+[LinkedIn](https://www.linkedin.com/in/marc-perez-dev/)
 
 ## What languages do I code in?
 
@@ -15,15 +16,15 @@ https://chath.itch.io/
 
 **Android Application Engineer** - Zonar Systems - Seattle, WA - _March 2022 - February 2025_
 
-In this role, I primarily maintained an Android system application for an enterprise system working with proprietary hardware interfacing and GPS tracking. This role requires a high amount of cross-team collaboration with hardware engineers and consuming apps (both internal and external). Additional projects in this role include maintaining libraries for Android and iOS to be used by internal consuming apps and Angular web applications for customer care staff within the company.
+Developed Android, web, and iOS apps for fleet-management systems with 450K+ devices. Improved system reliability, reducing ELD errors by ~20%, cut Firebase crashes, and identified cost-saving hardware solutions, enhancing performance and customer value.
 
 **Founding Engineer** - Motorcycle Alert - Riverside, CA - _November 2015 to December 2016_
 
-On this project I worked with the client using an agile methodology to develop as the client gave feedback to the prototypes being presented. I worked on UI/UX, Android development (Java), PHP/MySQL database design and development, and v1.0 release.
+Developed Android app and backend APIs for a proximity detection tool for motorcyclists. Enabled future iOS integration. Achieved 4.8+ star rating and 500+ installs within a year of launch, contributing to strong user satisfaction and cross-platform readiness.
 
 **Founding Engineer, Android Applications** - Sportronix - Riverside, CA  - _November 2013 to May 2015_
 
-In this role I worked in a team of four developers using an Agile methodology to present our work to the owner and develop as the client gave feedback to the prototypes being presented. I worked primarily on UI/UX and Android development (Java) to complete a v0.1 prototype.
+Built Android app and backend APIs for a personal sports betting/scorekeeping app. Used Git for version control and ensured cross-platform support. Contributed from concept to 1.0 release within 12 months at a small startup.
 
 ## What projects am I most proud of?
 
@@ -42,15 +43,3 @@ This project was a great way to test out a small scale version of the group proj
 ###### Software/Technologies: **Godot**
 
 My first completed video game project, [**Wizard Fight**](https://github.com/mperez68/WizardFight) started as a Unity project but has since been adapted to Godot Engine. The game is a tactical RPG based around cartoon wizards throwing fireballs and lightning bolts. Except some basic spell icons, all assets, including music, were made by me. This project made me realize how much work I need to do on my pixel art but also made me very proud of my music production. The game can be played [here](https://github.com/mperez68/WizardFight/blob/5ade6d3eaece5580d9f5c72d65633402cc8d62d8/Wizard%20Fight.zip).
-
-## Where can you contact me?
-
-I am quickest to reply by email:
-
-Marc.Perez.Dev@gmail.com
-
-I can also be reached at the following sites:
-
-[LinkedIn](https://www.linkedin.com/in/mpdev/)
-
-[Indeed](https://my.indeed.com/p/marcp-wuub308)
